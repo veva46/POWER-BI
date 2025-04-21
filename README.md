@@ -1,5 +1,5 @@
 # VeraVavrincova
-Analýza počtu dětí a žáků ve školách zřizovaných obcemi - závěrečný projekt v Power BI ke kurzu Datová akademie firmy Engeto
+Závěrečný projekt v Power BI ke kurzu Datová akademie firmy Engeto -- Analýza počtu dětí a žáků ve školách zřizovaných obcemi  
 
 Použila jsem 3 tabulky z veřejných dat.
 Data jsem upravila v PowerQuery. Na filtrování jsem použila průřezy. Filtrovala jsem zejména podle krajů, okresů a typů vzdělávání.
